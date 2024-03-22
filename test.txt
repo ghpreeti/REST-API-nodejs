@@ -1,0 +1,2 @@
+Schema- define the struture;
+using model we CRUD operations
